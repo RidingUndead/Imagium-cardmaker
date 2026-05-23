@@ -6,6 +6,4 @@ This is just a hobbby project for a custom TCG game. Not really interesting for 
 
 - **Frontend**: Svelte
 - **Backend**: FastAPI
-- **Database**: SQLite
-
-"# Imagium-cardmaker" 
+- **Database**: JSON
