@@ -1,0 +1,64 @@
+{
+    "Normal": [],
+    "Character": [
+        {
+            "title": "Shining Warrior",
+            "level": 7,
+            "creatureType": "Melee",
+            "familyName": "Shining Warrior",
+            "element": "/src/assets/elements/light.png",
+            "enchantment": "Character",
+            "effects": "*You can Summon this card by sacrificing 3 Melee creatures on your field.* Each time a Chain ends, this card gains 20 ATK and 15 DMG for each creature effect activated in that Chain (except this card).",
+            "atk": 20,
+            "dmg": 15,
+            "def": 18,
+            "image_path": "C:\\Users\\Admin\\Desktop\\backups\\coding\\JavaScript\\imagiumcards\\card_datas\\datas\\cards\\card_c10aa916.png",
+            "card_id": "c10aa916"
+        },
+        {
+            "title": "Squarstep King",
+            "level": 9,
+            "creatureType": "Golem",
+            "familyName": "Squarstep",
+            "element": "/src/assets/elements/earth.png",
+            "enchantment": "Character",
+            "effects": "*This card can be Summoned by the effect of the \"King's move\" or by removing every Move Score from the field (minimum 3) while every player controls a creature.* When this card is Summoned: Each players places 5 Move Scores on a creature they control. If a creature with at least 1 Move score is destroyed, remove 1 Move Score instead. If a player has no Move scores on their field after this card is Summoned, they lose the Match.",
+            "atk": 35,
+            "dmg": 25,
+            "def": 30,
+            "image_path": "C:\\Users\\Admin\\Desktop\\imagiumcards\\card_datas\\datas\\cards\\card_346a6ec6.png",
+            "card_id": "346a6ec6"
+        },
+        {
+            "title": "Runesoul Paradox",
+            "level": 8,
+            "creatureType": "Dream",
+            "familyName": "Runeforge",
+            "element": "/src/assets/elements/fire.png",
+            "enchantment": "Character",
+            "effects": "Land cards you control becomes Merging. Once per turn, you can send 1 <Runeforge> card from your hand or field to the Graveyard, then shuffle 2 cards from your Graveyard and 2 from your opponent's Graveyard to the decks. Then, this card gains 10 ATK and DEF points.",
+            "atk": 23,
+            "dmg": 10,
+            "def": 30,
+            "image_path": "C:\\Users\\Admin\\Desktop\\imagiumcards\\card_datas\\datas\\cards\\card_70cbbe4e.png",
+            "card_id": "70cbbe4e"
+        },
+        {
+            "title": "Immomento D'el Secundo",
+            "level": 8,
+            "creatureType": "Mage",
+            "familyName": "Immomento",
+            "element": "/src/assets/elements/wind.png",
+            "enchantment": "Character",
+            "effects": "*If this card is added to the hand by card effect, you can Summon it.* Once per turn, if a card effect in a Chain (with length 2 or more effects) is activated: You can put the last effect to the end of that Chain as an Instant effect.",
+            "atk": 30,
+            "dmg": 20,
+            "def": 23,
+            "image_path": "C:\\Users\\Admin\\Desktop\\imagiumcards\\card_datas\\datas\\cards\\card_4d6d6d85.png",
+            "card_id": "4d6d6d85"
+        }
+    ],
+    "Magic": [],
+    "Curse": [],
+    "Land": []
+}

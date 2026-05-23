@@ -1,0 +1,26 @@
+Basic Filters:
+    - Title
+    - Family Name
+    - Element
+    - Card Type
+
+Creature Filters:
+    - Level
+    - Creature Type
+
+Magic Filters:
+    - Simple Type
+    - Continuous Type
+    - Other Type
+
+Curse Filters:
+    - Simple Type
+    - Continuous Type
+    - Other Type
+
+Land Filters:
+    - Clear Filter
+    - isNormal
+    - isMerging
+    - isReplacable
+    - isShared
